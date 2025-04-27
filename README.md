@@ -78,6 +78,13 @@ This **Sales & Profit Dashboard** provides a 360° view of business performance 
 
 ---
 
+
+# Dashboard Overview
+
+
+![Sales And Profit Analysis Dashboard Overview](https://github.com/user-attachments/assets/40053d56-dda3-4c3f-bc9d-731a354eb725)
+
+
 # ✅ Conclusion & Recommendations
 
 - **Focus on margin optimization** in high-sales categories  
